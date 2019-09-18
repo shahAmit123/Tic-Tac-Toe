@@ -1,2 +1,2 @@
-# Tic-tac-toe
-A simple web application implemented on JQuery to play tic-tac-toe multiplayer game online
+# tic-tac-toe
+A simple version of the famous tic-tac-toe game
